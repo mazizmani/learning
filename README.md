@@ -11,3 +11,5 @@ Hey, this is where I document my learning progress with JavaScript from scratch.
 -Day4: This day I learned a lot about functions, Math methods and booleans.
 
 -Day5: Today I deepened my insight on functions, while also incorperating the usage of arrays.
+
+-Day6: This day I started learning about the seemingly hard to grasp concept (atleast for me as of writing this) of objects.
